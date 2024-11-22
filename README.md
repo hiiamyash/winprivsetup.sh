@@ -1,4 +1,4 @@
-# bugbounty-recon.sh
+# winprivsetup.sh
 
 Simple overview of use/purpose.
 
@@ -41,7 +41,7 @@ stores them in a local directory.
 
 ### Installing
 ```
-https://github.com/hiiamyash/bugbounty-recon.sh.git
+https://github.com/hiiamyash/winprivsetup.sh.git
 ```
 ### Executing program
 
